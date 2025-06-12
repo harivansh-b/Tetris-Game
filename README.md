@@ -30,52 +30,52 @@ To find the entry point of the program open the src folder then navigate to the 
 
 • After the successful launch you will find the open page.
 
-![A screenshot of game start screen](screenshots%5Copenpage.png)
+![A screenshot of game start screen](screenshots/openpage.png)
 
 • To continue to play you can click play button or to know how to play the game you can click how to play button otherwise click exit or previous button at the top to go back.
 
 • The how to play button navigates to how to play page in which the details to play the game is mentioned.
 
-![A screenshot of how to play screen](screenshots%5Chow_to_play.jpg)
+![A screenshot of how to play screen](screenshots/how_to_play.jpg)
 
 • By clicking the previous button, you can get back to the open page.
 
 • Then clicking the play button in open page navigates to a page where you can choose whether you want to play by logging in using an already existing or newly created account or choose guest to play as a guest.
 
-![A screen shot of login/guest sign-in screen](screenshots%5Cloginoption.png)
+![A screen shot of login/guest sign-in screen](screenshots/loginoption.png)
 
 • Login can be done just by providing the username and password If you don’t have an account, you can create a new button by clicking sign up and create a new button with password matching with criteria given.
 
-![A screenshot of login screen](screenshots%5Clogin_panel.png)  
-![A screenshot of signup screen](screenshots%5Csignup_panel.png)
+![A screenshot of login screen](screenshots/login_panel.png)  
+![A screenshot of signup screen](screenshots/signup_panel.png)
 
 • If you play as guest, you will get only two functionalites new game, leaderboard.
 
-![A screenshot of guest game screen](screenshots%5Cguestplay.png)
+![A screenshot of guest game screen](screenshots/guestplay.png)
 
 • If you login you are directed to page having three functionalities new game, leader board and an additional functionality history (history of last 5 game that you have played by logging in the current account).
 
-![A screenshot of signed-in game screen](screenshots%5Csigninplay.png)
+![A screenshot of signed-in game screen](screenshots/signinplay.png)
 
 • Leaderboard button provides a page with three options whether you want to see the leaderboard of the games in easy, medium or hard.
 
-![A screenshot of leaderboard choice screen](screenshots%5Cleaderboard_choice.png)
+![A screenshot of leaderboard choice screen](screenshots/leaderboard_choice.png)
 
 • On clicking these three buttons you can get the leaderboard of the selected difficulty or previous button to navigate back.
 
-![A screenshot of leaderboard of easy mode screen](screenshots%5Cleaderboard.png)
+![A screenshot of leaderboard of easy mode screen](screenshots/leaderboard.png)
 
 • Selecting history will generate you the history page
 
-![A screenshot of history screen](screenshots%5Chistory.png)
+![A screenshot of history screen](screenshots/history.png)
 
 • On clicking new game you will be asked to choose the difficulty in which you want to play.
 
-![A screenshot of difficulty screen](screenshots%5Cdifficulty_choice.png)
+![A screenshot of difficulty screen](screenshots/difficulty_choice.png)
 
 Difficulty sets the game speed, increasing speed and score per level accordingly.
 
-![A screenshot of game screen](screenshots%5Cgamepanel.png)
+![A screenshot of game screen](screenshots/gamepanel.png)
 
 There are seven blocks which spawn randomly with different colors.
 
