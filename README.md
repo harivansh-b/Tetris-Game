@@ -16,7 +16,7 @@ This Tetris game project is a console-based recreation of the classic Tetris gam
 
 **Installing:**
 
-**•**Just download the TetrisGame folder. No additional modifications or installations are required.
+Just download the TetrisGame folder. No additional modifications or installations are required.
 
 **Executing program:**
 
