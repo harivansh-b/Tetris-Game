@@ -20,7 +20,7 @@ Just download the TetrisGame folder. No additional modifications or installation
 
 **Executing program:**
 
-To find the entry point of the program open the src folder then navigate to the Game folder there you can find the file MainFrame.java which serves as the entry point to the game application.
+To find the entry point of the program open the src folder then navigate to the Game folder there you can find the file App.java which serves as the entry point to the game application.
 
 **Instructions for executing the game:**
 
