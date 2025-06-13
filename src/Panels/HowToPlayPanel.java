@@ -25,8 +25,11 @@ public class HowToPlayPanel extends JPanel {
         previousButton.setFocusPainted(false);
         previousButton.setOpaque(false);
 
-        // Exit on click
-        previousButton.addActionListener(e -> System.exit(0));
+        previousButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                cardLayout.show(cardPanel,"openPagePanel");
+            }
+        });
 
         // Add button after layout is set
         add(previousButton);

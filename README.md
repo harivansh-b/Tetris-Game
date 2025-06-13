@@ -24,9 +24,9 @@ To find the entry point of the program open the src folder then navigate to the 
 
 **Instructions for executing the game:**
 
-• Compiler the project (Ensure the all files in the src is compiled).
+• Compile the project (Ensure the all files in the src is compiled).
 
-• After compiling, execute the MainFrame class to launch the game.
+• After compiling, execute the App class in Game folder to launch the game.
 
 • After the successful launch you will find the open page.
 
